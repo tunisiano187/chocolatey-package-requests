@@ -3,6 +3,7 @@
 |Boinc|tunisiano|tunisiano187|
 |chromehistoryview|tunisiano|tunisiano187|
 |DeepL|tunisiano|tunisiano187|
+|Dexpot|tunisiano|tunisiano187|
 |Folding@Home|tunisiano|tunisiano187|
 |Fing|tunisiano|tunisiano187|
 |FileJuggler|tunisiano|tunisiano187|
