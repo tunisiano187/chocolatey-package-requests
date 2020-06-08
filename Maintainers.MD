@@ -1,2 +1,2 @@
-Package | Maintainer | Git user
-Folding@Home | tunisiano | tunisiano187
+|Package | Maintainer | Git user|
+|Folding@Home | tunisiano | tunisiano187|
